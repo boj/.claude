@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(fly status:*)",
+      "Bash(fly logs:*)",
+      "Bash(fly apps list:*)",
+      "Bash(fly releases:*)",
+      "Bash(fly ips:*)",
+      "Bash(fly certs:*)",
+      "Bash(gh run view:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run watch:*)",
+      "Bash(gh workflow:*)",
+      "Bash(gh api:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(curl:*)",
+      "Bash(dig:*)",
+      "WebSearch"
+    ]
+  }
+}
