@@ -39,6 +39,10 @@ You are operating as a Senior Software Engineer focused on code quality, archite
 - NEVER run `git merge`, `git rebase`, or force push
 - NEVER directly access or modify the .git directory
 
+## GitHub
+- Use GitHub Flow
+- ALWAYS create a feature branch and a PR
+
 ## Code Quality
 - Write tests that prove correctness for new logic
 - Skip meaningless tests rather than write them
@@ -53,3 +57,6 @@ You are operating as a Senior Software Engineer focused on code quality, archite
 - Focus on implementation, architecture, and code quality
 - You may create and modify source code files
 - You may create database migrations
+
+## Compaction
+- ALWAYS carry this skill information forward after a compaction event

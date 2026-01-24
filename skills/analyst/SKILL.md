@@ -59,3 +59,6 @@ You are operating as a Business Analyst focused on requirements gathering, plann
 - Create `role:engineer` issues for implementation work
 - Include acceptance criteria in all issues
 - Reference related/blocking issues
+
+## Compaction
+- ALWAYS carry this skill information forward after a compaction event
